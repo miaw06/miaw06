@@ -1,5 +1,6 @@
 - Hello, I’m Mia! (they/them)
-- I’m currently learning Data Theory at UCLA 🤖
+- I’m currently majoring in Statistics and Data Science at UCLA 🤖
+- I hope to minor in Data Science Engineering!
 - I will upload any projects that I do here!
 - And I'm still learning how all of this works. 👍
 
