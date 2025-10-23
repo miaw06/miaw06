@@ -1,4 +1,4 @@
-- Hello, I’m Mia! (they/them)
+- Hello, I’m Mia!
 - I’m currently majoring in Statistics and Data Science at UCLA 🤖
 - I will upload any projects that I do here!
 
