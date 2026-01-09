@@ -1,5 +1,6 @@
 - Hello, I’m Mia!
 - I’m currently majoring in Statistics and Data Science and minoring in Data Science Engineering at UCLA 🤖
+- I'll be graduating in June of 2028 🎓
 - I will upload any projects that I do here!
 
 <!---
